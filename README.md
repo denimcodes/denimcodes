@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Denim
 
-<!--
-**denimcodes/denimcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Developer with experience in building scalable web and blockchain applications.  
+I specialize in creating clean, performant, and user-friendly solutions using modern technologies.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, Bun  
+- **Database:** PostgreSQL, Drizzle ORM 
+- **Blockchain:** Solana  
+- **Other Tools:** Git, Docker, Turborepo, Vercel, Cloudflare
+
+## 💼 What I’m Working On
+
+- A crypto-based checkout platform (Gumroad-style) on Solana  
+- Invox: A full-featured invoice management app with premium features  
+- Mini SaaS tools that solve real problems
+
+## 📫 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/denim-basumatary-195765247/) 
+- [Twitter](https://twitter.com/denimcodes)  
+- Email: denimbasumatary@outlook.com
