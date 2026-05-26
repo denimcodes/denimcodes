@@ -6,7 +6,6 @@ Full Stack Software Engineer building scalable web and mobile applications with 
 
 <p align="left">
   <a href="mailto:denimbasumatary@protonmail.com">Email</a> •
-  <a href="https://github.com/denimcodes">GitHub</a> •
   <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
 </p>
 
