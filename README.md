@@ -49,42 +49,6 @@ Full Stack Software Engineer building scalable web and mobile applications with 
 
 ---
 
-# Featured Projects
-
-## Resonance
-
-AI-powered text-to-speech SaaS platform built with Next.js, TypeScript, tRPC, PostgreSQL, and Cloudflare R2.
-
-### Features
-
-* AI voice generation
-* Authentication system
-* Audio management
-* Cloud storage integration
-* Production observability with Sentry
-
-### Stack
-
-`Next.js` `TypeScript` `tRPC` `Prisma` `PostgreSQL` `Cloudflare R2`
-
----
-
-## Fast Finder
-
-Android utility application for searching apps, contacts, files, and media from a single interface.
-
-### Highlights
-
-* 50,000+ organic installs
-* Part of a portfolio totaling 100,000+ installs
-* Built independently from development to publishing
-
-### Stack
-
-`Java` `Android SDK`
-
----
-
 # Currently Building
 
 * AI-powered SaaS products
